@@ -11,7 +11,7 @@ HyperGuard is a Discord bot designed to assist with administrative tasks in Robl
 - Users will be notified via Discord when their subscription is due for renewal. Failure to renew the subscription will result in the suspension of the bot’s services.
 
 #### 4. Requirements
-- Users must provide valid API keys and universe IDs to enable the bot to perform administrative tasks.
+- Users must provide a valid API key and a valid universe ID to enable the bot to perform administrative tasks.
 - The bot should not be integrated with inappropriate or offensive games in Roblox or Discord servers. If such integration is discovered, the license to use HyperGuard will be revoked immediately, and the bot will no longer function for the offending user or server.
 
 #### 5. Usage Guidelines
