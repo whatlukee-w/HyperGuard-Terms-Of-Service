@@ -1,0 +1,42 @@
+### Privacy Policy for HyperGuard
+
+#### 1. Introduction
+Welcome to HyperGuard. This Privacy Policy describes how we collect, use, and disclose information about users of the HyperGuard Discord bot. By using HyperGuard, you agree to the collection and use of information as described in this policy.
+
+#### 2. Information We Collect
+HyperGuard collects the following information from Discord servers where it is installed:
+
+- **API Keys and Universe IDs**: Users provide their Roblox API keys and universe IDs necessary for the bot to perform administrative tasks in their Roblox games.
+- **Log Channel ID**: If users enable the logging feature via configure_settings, HyperGuard stores the Discord channel ID where administrative actions (e.g., bans, kicks) are logged.
+- **Guild ID and Role IDs**: HyperGuard stores the Discord guild ID where it is installed and the role IDs of roles that have permission to use its commands.
+
+#### 3. How We Use Information
+We use the collected information for the following purposes:
+- To authenticate and authorize users to use the bot based on their provided API keys and permissions.
+- To log administrative actions in the specified Discord channel.
+- To ensure compliance with the Terms of Service and prevent misuse of the bot.
+
+#### 4. Information Security
+HyperGuard stores user information in a secure database accessible only to the owner of the bot. We implement robust technical and organizational measures to protect this information from unauthorized access, use, or disclosure.
+
+#### 5. Information Sharing
+HyperGuard does not share user information with third parties except in the following circumstances:
+- **Legal Compliance**: If required by law or legal process, we may disclose information.
+- **Service Providers**: We may engage third-party service providers to assist with the operation and maintenance of the bot, who will be bound by confidentiality obligations.
+
+#### 6. User Rights and Choices
+Users have the following rights regarding their information:
+- **Access**: Users can request access to their information stored by HyperGuard.
+- **Correction**: Users can request corrections or updates to inaccurate or outdated information.
+- **Deletion**: Users can request deletion of their information, subject to legal or contractual restrictions.
+
+#### 7. Data Retention
+HyperGuard retains user information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+#### 8. Changes to This Privacy Policy
+HyperGuard reserves the right to update or modify this Privacy Policy at any time. We will notify users of significant changes via Discord or email. Continued use of the bot after such changes implies acceptance of the updated Privacy Policy.
+
+#### 9. Contact Us
+For any questions or concerns regarding this Privacy Policy or our data practices, please contact us at our discord server, here: https://discord.gg/jGHsTFReSM (Permanent link).
+
+By using HyperGuard, you acknowledge that you have read, understood, and agree to this Privacy Policy.
